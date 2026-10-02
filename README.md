@@ -1,2 +1,6 @@
-Hi there, I'm AROOJ an
-enthusiastic student and aspiring tech professional passionate about Artificial Intelligence .I am dedicated to exploring how smart technologies can be built and applied ethically to solve real-world problems. About Me : Current Focus : Student exploring computer science fundamentals and modern AI technologies. Passion: Building practical projects, understanding algorithmic decision-making, and continuously learning new skills. Learning Goal: Gaining hands-on experience in machine learning pipelines and ethical AI implementation. How to reach me: the.shezam@gmail.com Key Interests & Skills Artificial Intelligence (AI): Exploring the foundational theory and practical applications of intelligent systems. AI Ethics & Responsible Tech My AI Learning Journey My pathway into AI learning journey started through the Bano Qabil program, where I was admitted to learn about Artificial Intelligence and develop my technical skills. I am currently exploring AI concepts and building my knowledge through this learning journey Tools & Environments: Notebooks, Linkdin , GitHub Learning Platforms: Banoqabil , YouTube, Gemini, interactive AI tools Continuous learning is the minimum requirement for success in any file..
+Hi there,
+I'm AROOJ 
+I'm an enthusiastic student and aspiring tech professional passionate about Artificial Intelligence. I am dedicated to exploring how smart technologies can be built and applied ethically to solve real-world problems.
+About Me :
+Current Focus: Student exploring computer science fundamentals and modern AI technologies.
+Passion: Building practical projects and leveraging technology for impact.
